@@ -1,0 +1,28 @@
+.result_ {
+  background-color: lightgray;
+  height: 48px;
+  font-size: 20px;
+  border: solid;
+}
+
+.buttonClass {
+  width: 25%;
+  height: 36px;
+  font-size: 18px;
+  margin: 0px;
+  float: left;
+}
+.buttonClassNum {
+  background-color: lightgreen;
+  color: brown;
+}
+
+.buttonClassCtrl {
+  background-color: darkgreen;
+  color: white;
+}
+
+.buttonClassOper {
+  background-color: black;
+  color: red;
+}
